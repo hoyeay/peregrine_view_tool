@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PeregrineViewTool::Renderer.copyright 'Jose Ramirez', 'All rights reserved.'
+```
 
 ## Development
 
