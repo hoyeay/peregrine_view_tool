@@ -26,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="renderer.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="renderer.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/peregrine_view_tool/renderer.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
@@ -86,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="peregrine_view_tool.gemspec" pinned="false" current-in-tab="true">
+      <file leaf-file-name="peregrine_view_tool.gemspec" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/peregrine_view_tool.gemspec">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
@@ -211,15 +211,16 @@
       <option name="presentableId" value="Default" />
       <updated>1521614564246</updated>
       <workItem from="1521614565600" duration="2207000" />
-      <workItem from="1521692739768" duration="143000" />
+      <workItem from="1521692739768" duration="910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2350000" />
+    <option name="totallyTimeSpent" value="3117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1502146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -330,26 +331,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/peregrine_view_tool/renderer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/peregrine_view_tool/version.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/peregrine_view_tool.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -382,6 +367,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="24" column="52" lean-forward="false" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/peregrine_view_tool.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/peregrine_view_tool/renderer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
         </state>
       </provider>
